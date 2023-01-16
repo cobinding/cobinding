@@ -6,6 +6,9 @@
 - 집중하는 삶을 유지하기 위해서 백준 1일 1문제 운동 & 기술 블로그를 운영하고 있습니다.
 - 소통 lover ! 소통은 언제나 환영입니다 ❤️
 
+# Document
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=cobinding&postId={insert_postId}&theme=vue)](https://github.com/loosie/github-readme-tistory-card)
+
 # Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cobinding)](https://solved.ac/cobinding/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=cobinding&theme=cold)
