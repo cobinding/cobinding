@@ -3,4 +3,4 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=cobinding&theme=cold)
 
 # Skills
-<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=AndroidStudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/AndroidStudio-바탕색?style=flat&logo=AndroidStudio&logoColor=white"/>
