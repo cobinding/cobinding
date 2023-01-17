@@ -7,7 +7,7 @@
 - 소통 lover ! 소통은 언제나 환영입니다 ❤️
 
 # Document
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=cobinding&postId=[{insert_postId}](https://cobinding.tistory.com/entry/%EB%B0%B1%EC%97%94%EB%93%9C-3-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%9E%80-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC)&theme=vue)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=cobinding&postId=https://cobinding.tistory.com/entry/%EB%B0%B1%EC%97%94%EB%93%9C-3-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%9E%80-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC&theme=vue)](https://github.com/loosie/github-readme-tistory-card)
 
 # Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cobinding)](https://solved.ac/cobinding/)
