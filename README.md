@@ -7,7 +7,7 @@
 - 소통 lover ! 소통은 언제나 환영입니다 ❤️
 
 # Document
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={insert_blogName}&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=cobinding&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
 
 
 # Algorithm
