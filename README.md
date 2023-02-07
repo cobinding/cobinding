@@ -16,3 +16,4 @@
 
 # Skills
 <img src="https://img.shields.io/badge/AndroidStudio-바탕색?style=flat&logo=AndroidStudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-색상?style=for-the-badge&logo=#4479A1&logoColor=white">
