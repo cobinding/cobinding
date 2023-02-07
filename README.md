@@ -15,5 +15,5 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=cobinding&theme=cold)
 
 # Skills
-<img src="https://img.shields.io/badge/AndroidStudio-바탕색?style=flat&logo=#3DDC84&logoColor=green"/>
-<img src="https://img.shields.io/badge/MySQL-색상?style=for-the-badge&logo=#4479A1&logoColor=black">
+<img src="https://img.shields.io/badge/AndroidStudio-#3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-색상?style=for-the-badge&logo=#4479A1&logoColor=white">
