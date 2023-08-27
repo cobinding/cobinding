@@ -23,12 +23,11 @@ https://cobinding.tistory.com/
     - KAU PC 알고리즘 대회 우수상
 - 2022
     - 아두이노 기초 스크래치 코딩 교육 강사
-    - 언택트 ICT 창업 경진대회 우수상
+    - ICT 창업 경진대회 우수상
     - 항공대 X 록히드마틴 자율주행 경진대회 기술 staff
 
 - 2023
-    - 산학 프로젝트 Nencipe 개발 팀장
+    - 산학 프로젝트 Nengcipe 개발 팀장
     - 항공대 X 록히드마틴 자율주행 경진대회 기술 팀장
-    - 멋쟁이 사자 11기
+    - IT 창업 개발 동아리 멋쟁이 사자 11기
     - 알고리즘 학회 Koala
-    - Python, Data Science 강사
