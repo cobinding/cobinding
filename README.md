@@ -15,6 +15,6 @@
 <br>
 
 ## 🔎 solved.ac
-#### 🔗 [solved.ac](https://solved.ac/profile/cobinding)
+#### 🔗 [알고리즘 및 자료구조 연습](https://solved.ac/profile/cobinding)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobinding&layout=compact&theme=tokyonight) -->
