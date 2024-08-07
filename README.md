@@ -7,7 +7,7 @@
 <br>
 
 ## 📌 경력사항
-#### 🔗 [(주)창톡 | 인턴  | 9개월]([https://garnet-waxflower-dcc.notion.site/430335296a6d4855b4be73b47591d61d?pvs=4](https://curved-damselfly-fb0.notion.site/752cb5378f644f1e90e7a9223f2db5ef?pvs=4))
+#### 🔗 [(주)창톡 | 인턴  | 9개월](https://sebinchu.notion.site/752cb5378f644f1e90e7a9223f2db5ef)
 <br>
 
 ## 💻 Tech Blog
