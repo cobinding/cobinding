@@ -7,7 +7,7 @@
 <br>
 
 ## 📌 경력사항
-#### 🔗 [(주)창톡 | 인턴  | 10개월](https://sebinchu.notion.site/752cb5378f644f1e90e7a9223f2db5ef)
+#### 🔗 [(주)창톡 | 인턴  | DevOps/Server | 10개월](https://sebinchu.notion.site/752cb5378f644f1e90e7a9223f2db5ef)
 <br>
 
 ## 💻 Tech Blog
